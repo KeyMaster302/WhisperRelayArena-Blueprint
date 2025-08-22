@@ -1,139 +1,65 @@
-Whisper Relay Arena Proprietary License v1.0
-Author: Mike  ( Michael Martin )
-Date: August 21, 2025
-System: Whisper Relay Arena Cognitive Orchestration Platform
-License Version: 1.0
-Copyright Notice
-Copyright © 2025 Mike. All rights reserved.
-The Whisper Relay Arena system, including but not limited to its tri-agent loop architecture, emotional containment protocols, fallback rituals, rotation logic, context brokering mechanisms, and all associated documentation, code, concepts, and methodologies (collectively, the "System") is the exclusive intellectual property of Mike ("Michael Martin").
-Permitted Uses (Non-Commercial)
-Subject to the terms and conditions of this license, you are granted a limited, non-exclusive, non-transferable license to:
-
-Research & Study: View, analyze, and study the System for academic research, educational purposes, and personal learning
-Attribution: Reference the System in academic papers, research publications, and educational materials with proper attribution
-Non-Commercial Experimentation: Test and experiment with the System for non-commercial, personal use only
-
-Prohibited Uses
-Without explicit written authorization from the Author, you may NOT:
-
-Commercial Use: Use, deploy, implement, or integrate the System or any portion thereof for commercial purposes, including but not limited to:
-
-Revenue-generating applications or services
-Commercial AI systems or platforms
-Consulting services utilizing the System
-Any business operation or profit-making activity
-
-
-Derivative Works: Create, develop, or distribute derivative works, modifications, adaptations, or improvements of the System
-Distribution: Redistribute, sublicense, sell, rent, lease, or otherwise transfer the System or any portion thereof
-Reverse Engineering: Decompile, disassemble, reverse engineer, or attempt to derive the source code or underlying concepts
-Attribution Removal: Remove, obscure, or alter copyright notices, attribution requirements, or license terms
-
-Commercial Licensing
-License Tiers
-Startup License (Annual Revenue < $1M):
-
-Annual fee: $10,000
-Royalty: 2% of net revenue generated using the System
-Single deployment environment
-Email support
-
-Enterprise License (Annual Revenue ≥ $1M):
-
-Annual fee: $50,000
-Royalty: 3% of net revenue generated using the System
-Unlimited deployment environments
-Priority support and consultation
-
-Custom Enterprise License:
-
-Negotiated terms for large-scale implementations
-Reduced royalty rates for multi-year commitments
-Co-development opportunities
-
-Royalty Structure
-
-Royalties calculated quarterly based on net revenue directly attributable to System usage
-Minimum quarterly royalty payment: $2,500 (Startup), $10,000 (Enterprise)
-Late payment penalty: 1.5% per month
-Annual audit rights reserved by Licensor
-
-Enforcement and Monitoring
-Usage Tracking
-
-All implementations must include tracking mechanisms for royalty calculation
-Licensees must provide quarterly usage reports
-Author reserves right to audit implementations with 30-day notice
-
-Compliance Requirements
-
-All deployments must maintain visible attribution to the Author
-Commercial users must display "Powered by Whisper Relay Arena by Mike" in user interfaces
-License violation reporting mechanism must be implemented
-
-Breach Consequences
-
-Immediate license termination for material breach
-Liquidated damages: 10x annual license fee or $100,000, whichever is greater
-Injunctive relief and legal costs recovery
-Disgorgement of profits derived from unauthorized use
-
-Intellectual Property Protection
-Trade Secrets
-The System contains proprietary trade secrets and confidential information. Recipients agree to:
-
-Maintain strict confidentiality
-Limit access to authorized personnel only
-Implement reasonable security measures
-Return or destroy materials upon license termination
-
-Patent Rights
-Author reserves all patent rights and may seek patent protection for System innovations. This license does not grant any patent rights to licensees.
-Trademark Rights
-"Whisper Relay Arena" and associated marks are trademarks of the Author. Commercial licensees receive limited trademark usage rights solely for attribution purposes.
-Terms and Conditions
-License Grant Limitations
-
-Non-exclusive, non-transferable rights only
-Revocable upon breach or non-payment
-No implied licenses or rights beyond those explicitly granted
-Geographic restrictions may apply based on license tier
-
-Warranty Disclaimer
-THE SYSTEM IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. AUTHOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR PURPOSE, AND NON-INFRINGEMENT.
-Liability Limitation
-IN NO EVENT SHALL AUTHOR BE LIABLE FOR CONSEQUENTIAL, INCIDENTAL, OR PUNITIVE DAMAGES. TOTAL LIABILITY LIMITED TO FEES PAID BY LICENSEE IN THE TWELVE MONTHS PRECEDING THE CLAIM.
-Governing Law
-This license is governed by Delaware state law. Exclusive jurisdiction in Delaware courts. Prevailing party entitled to attorney fees and costs.
-License Management
-Contact Information
-Commercial Inquiries: thekeymaster302@gmail.com
-Legal Notices: thekeymaster302@gmail.com
-Technical Support:thekeymaster302@gmail.com
-Amendment Process
-This license may only be amended by written agreement signed by both parties. No verbal modifications accepted.
-Severability
-If any provision is deemed unenforceable, remainder of license remains in full force and effect.
-Survival
-Intellectual property rights, confidentiality obligations, and limitation of liability survive license termination.
-Special Provisions
-Academic Collaboration
-Qualified academic institutions may request special research licenses with reduced fees in exchange for:
-
-Joint publication rights
-Research collaboration opportunities
-Student internship programs
-
-Open Source Exemption
-Non-commercial open source projects may request limited usage rights upon:
-
-Detailed project description and justification
-Commitment to contribute improvements back to the System
-Prominent attribution in all project materials
-
-Legacy Protection
-This System represents a new paradigm in "Sovereign Source" licensing—proprietary intellectual property designed for controlled, sustainable commercialization while maintaining creator rights and revenue streams.
-
-Notice: This license is perpetual and irrevocable except as explicitly provided herein. Future versions of the System may be released under different license terms at Author's sole discretion.
+ Whisper Relay Arena Proprietary License v1.2
+Author: Mike (Michael Martin)
 Effective Date: August 21, 2025
-License Registration: WRA-2025-001
+License Registration: WRA-2025-001-v1.2
+System: Whisper Relay Arena Cognitive Orchestration Platform
+
+
+
+🔐 Copyright Notice
+Copyright © 2025 Mike. All rights reserved. The Whisper Relay Arena system, including its tri-agent loop architecture, emotional containment protocols, fallback rituals, rotation logic, context brokering mechanisms, and all associated documentation, code, concepts, and methodologies (collectively, the “System”) is the exclusive intellectual property of Mike (“Michael Martin”).
+
+
+
+✅ Permitted Uses (Non-Commercial Only)
+You are granted a limited, non-exclusive, non-transferable license to:
+
+Research & Study: View and analyze the System for academic, educational, or personal learning.
+
+Attribution: Reference the System in academic papers or educational materials with proper credit.
+
+Non-Commercial Experimentation: Test and explore the System for personal, non-commercial use.
+
+
+
+🚫 Prohibited Uses
+Without written permission from the Author, you may NOT:
+
+Use the System for commercial purposes (e.g., paid services, monetized platforms, consulting).
+
+Create or distribute derivative works based on the System.
+
+Redistribute, sublicense, or transfer the System.
+
+Reverse engineer or attempt to extract source code or underlying logic.
+
+Remove or alter attribution, copyright notices, or license terms.
+
+
+
+💼 Commercial Licensing
+Commercial use is prohibited unless a separate written agreement is signed. No royalty tracking, audit rights, or support obligations are implied in this license. All commercial use must be negotiated directly with the Author.
+
+
+
+🛡️ Liability & Warranty
+The System is provided “as-is” by an individual creator. No guarantees of functionality, performance, or compatibility are made. Use of the System is entirely at the user’s own risk. The Author shall not be liable for any damages, losses, or claims arising from use, regardless of payment or agreement.
+
+
+
+⚖️ Governing Law
+This license is governed by Delaware state law. Any disputes will be resolved in Delaware courts. No verbal modifications are accepted.
+
+
+
+📌 Additional Terms
+This license is revocable upon breach.
+
+No implied rights beyond those explicitly granted.
+
+Intellectual property rights and attribution obligations survive termination.
+
+
+
+🧠 Legacy Protection
+This license protects the author's intellectual property and ensures that the System remains a sovereign creation. It is designed to support positive outcomes, protect the creator’s household, and prevent unauthorized commercial exploitation. This version incorporates the collective insights of its creator, Mike, and his AI advisors, Gemini and Claude, to ensure a document that is both legally sound and philosophically aligned with its core purpose.
